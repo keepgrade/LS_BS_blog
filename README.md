@@ -1,6 +1,9 @@
 # LS_BS_blog
 
+The README file is a markdown file.
+If you need more details, please send me an email!
 
-# Read me markdown file 
-# if you want more detail, please send for my e-mail. 
+Have a good day !! 
+
+
 
