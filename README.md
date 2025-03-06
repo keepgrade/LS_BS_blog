@@ -1,5 +1,7 @@
 # LS_BS_blog
 
+Welcome to HuhHuhman's blog
+
 The README file is a markdown file.
 
 If you need more details, please send me an email!
